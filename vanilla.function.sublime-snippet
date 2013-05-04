@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[function ${1:methodName} (${2:arguments}) {
+    'use strict';
+    
+    ${3:var = }
+    
+    ${0:// body...}
+}${4:,}
+]]></content>
+    <tabTrigger>fn</tabTrigger>
+    <scope>source.js</scope>
+    <description>Function</description>
+</snippet>
